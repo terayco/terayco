@@ -1,5 +1,5 @@
-### 🦄 Hello! Welcome to terayco's Github Homepage👨‍🎓!
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+terayco😉;Nice+to+see+u🤗)](https://git.io/typing-svg)
+### 🦄 Hello! Welcome to terayco's Github Homepage!🧡
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+terayco😉;I+am+still+a+student+now👨‍🎓;And+nice+to+see+u🤗)](https://git.io/typing-svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terayco&theme=shades-of-purple&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terayco&theme=gruvbox_light&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
